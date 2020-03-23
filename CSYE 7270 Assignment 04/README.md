@@ -15,13 +15,6 @@ This assignment project focuses on the Shader practice based on a unity tutorial
 Because CgFx is no longer recommended as it is based on legacy technology, so I use FX composer 2.5 to load and compile the CgFx shader
 
 
-
-## CgFx Shader Effect
-
-![1](C:\Users\Winter Pu\Desktop\1.bmp)
-
-
-
 ## Shader List
 
 * CgFx Code
