@@ -126,6 +126,12 @@ https://youtu.be/dxkPnkRTDiQ
 
 * **2D Sprite**
 
+  * **Background**
+
+    https://free-game-assets.itch.io/free-pixel-art-street-backgrounds
+
+    https://craftpix.net/file-licenses/ 
+
   * **All Game Characters**
 
     License: https://craftpix.net/file-licenses/
