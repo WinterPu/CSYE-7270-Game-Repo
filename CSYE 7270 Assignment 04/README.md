@@ -16,12 +16,6 @@ Because CgFx is no longer recommended as it is based on legacy technology, so I 
 
 
 
-## CgFx Shader Effect
-
-![1](C:\Users\Winter Pu\Desktop\1.bmp)
-
-
-
 ## Shader List
 
 * CgFx Code
