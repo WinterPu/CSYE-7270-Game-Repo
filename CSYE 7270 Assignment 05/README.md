@@ -10,7 +10,7 @@ Game AI
 
 Artificial Intelligence Agents
 
-###Method
+### Method
 
 Reinforcement Learning
 
@@ -48,7 +48,7 @@ Reinforcement Learning
 
 ## 3. Game
 
-###Game Introduction 
+### Game Introduction 
 
 This is a simple platform game. Control your red cube to hit the yellow target cube.
 
@@ -62,7 +62,7 @@ This is a simple platform game. Control your red cube to hit the yellow target c
 
 
 
-##4. Result & Quality
+## 4. Result & Quality
 
 ```
 Mean Reward: 0.995 / 1.0
